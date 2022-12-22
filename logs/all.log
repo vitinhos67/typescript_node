@@ -90,3 +90,23 @@
 2022Y-12-22 13:55:23:5523 - [32minfo[39m - [32mData base connected[39m
 2022Y-12-22 13:55:24:5524 - [32mhttp[39m - [32mPOST /movie 200 160 - 47.183 ms[39m
 [32m[39m
+2022Y-12-22 13:56:24:5624 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 13:56:24:5624 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 13:56:44:5644 - [32mhttp[39m - [32mPOST /movie 200 160 - 39.848 ms[39m
+[32m[39m
+2022Y-12-22 13:57:16:5716 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 13:57:21:5721 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 13:57:56:5756 - [32mhttp[39m - [32mPOST /movie 200 131 - 40.117 ms[39m
+[32m[39m
+2022Y-12-22 13:58:07:587 - [32mhttp[39m - [32mPOST /movie 200 131 - 24.436 ms[39m
+[32m[39m
+2022Y-12-22 13:58:14:5814 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 13:58:14:5814 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 13:58:16:5816 - [32mhttp[39m - [32mPOST /movie 200 232 - 38.553 ms[39m
+[32m[39m
+2022Y-12-22 13:59:03:593 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 13:59:09:599 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 13:59:24:5924 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 13:59:24:5924 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 13:59:55:5955 - [32mhttp[39m - [32mPOST /movie 200 467 - 43.372 ms[39m
+[32m[39m

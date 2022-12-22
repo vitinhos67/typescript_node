@@ -12,6 +12,12 @@ export const movieCreateValidation = () => {
         
         body('description')
         .isString()
-        .withMessage('Descrição precisa ser uma string')
+        .withMessage('Descrição precisa ser uma string'),
+
+        body('director')
+        .isString()
+        .withMessage("Diretor e obrigatorio"),
+        body('poster')
+        .isURL()
     ]
 }
