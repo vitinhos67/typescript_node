@@ -18,3 +18,32 @@ export async function createMovie(req: Request, res: Response) {
         
     }
 }
+
+export async function getMovie(req: Request, res: Response) {
+    try {
+        const {id} = req.params
+
+        const insertMovie = await Movie.findById(id)
+
+        if(!insertMovie) {
+            return res.status(404).json({
+                message: "Filme nao encontrado"
+            })
+        }
+
+        return res.status(200).json(insertMovie)
+    } catch (error) {
+        console.log(error)
+    }
+}
+
+
+export async function getMovies(req: Request, res: Response) {
+    try {
+
+        const insertMovie = await Movie.find()
+        return res.status(200).json(insertMovie)
+    } catch (error) {
+        
+    }
+}

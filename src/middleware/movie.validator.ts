@@ -1,4 +1,4 @@
-import { body } from "express-validator";
+import { body, param } from "express-validator";
 
 
 export const movieCreateValidation = () => {
@@ -19,5 +19,11 @@ export const movieCreateValidation = () => {
         .withMessage("Diretor e obrigatorio"),
         body('poster')
         .isURL()
+    ]
+}
+
+export const getMovieValidator = () => {
+    return [
+        param('id')
     ]
 }

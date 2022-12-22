@@ -110,3 +110,75 @@
 2022Y-12-22 13:59:24:5924 - [32minfo[39m - [32mData base connected[39m
 2022Y-12-22 13:59:55:5955 - [32mhttp[39m - [32mPOST /movie 200 467 - 43.372 ms[39m
 [32m[39m
+2022Y-12-22 14:04:19:419 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:04:20:420 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:04:50:450 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:04:50:450 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:05:55:555 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:06:00:60 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:06:26:626 - [32mhttp[39m - [32mGET /movie 404 144 - 3.204 ms[39m
+[32m[39m
+2022Y-12-22 14:06:30:630 - [32mhttp[39m - [32mGET /movies 404 145 - 0.517 ms[39m
+[32m[39m
+2022Y-12-22 14:06:35:635 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:06:35:635 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:06:46:646 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:06:46:646 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:06:49:649 - [32mhttp[39m - [32mGET /movies 200 1923 - 37.367 ms[39m
+[32m[39m
+2022Y-12-22 14:07:06:76 - [32mhttp[39m - [32mGET /movies/63a48d0b590dddb3f57d8835 404 170 - 1.905 ms[39m
+[32m[39m
+2022Y-12-22 14:07:14:714 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:07:14:714 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:07:15:715 - [32mhttp[39m - [32mGET /movies/63a48d0b590dddb3f57d8835 200 4 - 25.314 ms[39m
+[32m[39m
+2022Y-12-22 14:07:29:729 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:07:30:730 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:07:37:737 - [32mhttp[39m - [32mGET /movies/63a48d0b590dddb3f57d8835 200 4 - 26.580 ms[39m
+[32m[39m
+2022Y-12-22 14:07:44:744 - [32mhttp[39m - [32mGET /movies/63a48d0b590dddb3f57d8835 200 4 - 20.992 ms[39m
+[32m[39m
+2022Y-12-22 14:08:04:84 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:08:09:89 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:08:09:89 - [32mhttp[39m - [32mGET /movies/63a48d0b590dddb3f57d8835 200 467 - 3491.079 ms[39m
+[32m[39m
+2022Y-12-22 14:08:18:818 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:08:18:818 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:09:03:93 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:09:03:93 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:09:25:925 - [32mhttp[39m - [32mGET /movies/63a48d0b590dddb3f57d8835 200 467 - 29.134 ms[39m
+[32m[39m
+2022Y-12-22 14:09:28:928 - [32mhttp[39m - [32mGET /movies/ 200 1923 - 61.877 ms[39m
+[32m[39m
+2022Y-12-22 14:09:43:943 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:09:43:943 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:10:22:1022 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:10:27:1027 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:10:31:1031 - [32mhttp[39m - [32mGET /movies/43 - - - - ms[39m
+[32m[39m
+2022Y-12-22 14:11:04:114 - [32mhttp[39m - [32mGET /movies/43 - - - - ms[39m
+[32m[39m
+2022Y-12-22 14:11:06:116 - [32mhttp[39m - [32mGET /movies 200 1923 - 36.301 ms[39m
+[32m[39m
+2022Y-12-22 14:11:27:1127 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:11:32:1132 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:11:34:1134 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:11:34:1134 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:11:35:1135 - [32mhttp[39m - [32mGET /movies 200 1923 - 38.004 ms[39m
+[32m[39m
+2022Y-12-22 14:12:15:1215 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:12:15:1215 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:12:25:1225 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:12:25:1225 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:12:41:1241 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:12:41:1241 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:12:47:1247 - [32minfo[39m - [32mServidor rodando.. [39m
+2022Y-12-22 14:12:47:1247 - [32minfo[39m - [32mData base connected[39m
+2022Y-12-22 14:12:53:1253 - [32mhttp[39m - [32mPOST /movie 200 467 - 43.468 ms[39m
+[32m[39m
+2022Y-12-22 14:13:00:130 - [32mhttp[39m - [32mGET /movies/63a49015e1fb56e058d19dd4 200 467 - 23.899 ms[39m
+[32m[39m
+2022Y-12-22 14:13:03:133 - [32mhttp[39m - [32mGET /movies/63a49015e1fb56e058d19dd3 404 34 - 20.406 ms[39m
+[32m[39m
+2022Y-12-22 14:13:05:135 - [32mhttp[39m - [32mGET /movies/63a49015e1fb56e058d19dd4 200 467 - 19.619 ms[39m
+[32m[39m
